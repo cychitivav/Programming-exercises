@@ -1,2 +1,2 @@
 # Programming-exercises
-In this repository there are programming exercises, some of them are from autonomous study and others are from the course of Coursera, Udemy, Udacity, etc.
+In this repository, you'll discover a diverse array of programming exercises. Some of these exercises stem from self-directed learning, while others have been sourced from courses on platforms such as Coursera, Udemy, Udacity, and more.
