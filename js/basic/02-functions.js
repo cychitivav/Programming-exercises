@@ -13,8 +13,8 @@ let sayHi = function() {
 sayHi();
 
 // Parameters
-function greet(name, lastName = '') { // default parameter
-    console.log(`Hello ${name} ${lastName}`);
+function greet(name) { // default parameter
+    console.log('Hello ' + name);
 }
 
 greet('Cristian');
