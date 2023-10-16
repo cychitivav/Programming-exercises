@@ -1,0 +1,25 @@
+{
+  "name": "es-course",
+  "version": "1.0.0",
+  "description": "Resources for the Platzi course about ECMAscript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cychitivav/notebooks.git#main"
+  },
+  "keywords": [
+    "js",
+    "ecmascript",
+    "platzi"
+  ],
+  "author": "Cristian Chitiva <cychitivav@unal.edu.co>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cychitivav/notebooks/issues"
+  },
+  "homepage": "https://github.com/cychitivav/notebooks/tree/main#readme",
+  "type": "module"
+}
