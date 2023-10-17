@@ -30,10 +30,9 @@ The information in this repository is the result of the JavaScript courses given
 - [JavaScript courses](#javascript-courses)
   - [:pencil:Table of contents](#penciltable-of-contents)
   - [:pushpin:About the course](#pushpinabout-the-course)
-  - [:checkered_flag:Getting Started](#checkered_flaggetting-started)
+  - [:checkered\_flag:Getting Started](#checkered_flaggetting-started)
     - [Prerequisites](#prerequisites)
-  - [:roller_coaster:Roadmap](#roller_coasterroadmap)
-    - [](#)
+  - [:roller\_coaster:Roadmap](#roller_coasterroadmap)
 
 <!-- ABOUT THE PROJECT -->
 
@@ -66,5 +65,6 @@ sudo apt-get install npm
 
 ## :roller_coaster:Roadmap
 
-- [x] [Curso Básico de JavaScript](https://platzi.com/clases/basico-javascript/)
-- [ ]
+- [x] [Basic course of JavaScript](https://platzi.com/cursos/basico-javascript/)
+- [ ] [Course of ECMAScript](https://platzi.com/cursos/ecmascript-6/)
+- [ ] [Practical course of JavaScript](https://platzi.com/cursos/javascript-practico/)
