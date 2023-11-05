@@ -8,3 +8,6 @@ __pycache__/
 
 # Code runner
 **tempCodeRunnerFile**
+
+# Node modules
+**node_modules/
