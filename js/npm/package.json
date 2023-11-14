@@ -1,0 +1,29 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cychitivav/notebooks/js/npm"
+  },
+  "keywords": [
+    "javascript",
+    "node"
+  ],
+  "author": "Cristian Chitiva <cychitivav@unal.edu.co>",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.29.4",
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.53.0"
+  },
+  "optionalDependencies": {
+    "react-dom": "^18.2.0"
+  }
+}
